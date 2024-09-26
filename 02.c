@@ -16,5 +16,4 @@ int main() {
     printf("4. Finally ptr3 - %p stores the address of ptr2 - %p", ptr3, ptr2);
 
     printf("Final value will be given as: %d", ***ptr3);
-
 }
